@@ -1,0 +1,104 @@
+.card{
+    background-color: black;
+    width: 17%;
+    display: inline-block;
+    color: azure;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.card img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.card a{
+    color: brown;
+    text-decoration: underline solid royalblue;
+    background-color: aquamarine;
+    width: 150px;
+    display: inline-block;
+    border-radius: 15px; 
+}
+.menu a{
+    color: rgb(52, 236, 227);
+    text-decoration: none;
+    border-width: 1px;
+    border-style: double;
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px black;    
+    transform: translateY(400px);
+    transition: 1s;
+}
+th { 
+    padding-top: 30px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   height: 150px;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   font-size: 22px;
+   text-shadow: 1px 1px 2px black;
+   color: white;
+    }
+td {
+    background-color: white;
+   padding-top: 30px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-bottom: 3px dashed black;
+   border-left: 3px dashed black;
+   border-right: 3px dashed black;
+}
+.tarif-button{
+    background-color: skyblue;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    padding: 20px 5px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: aliceblue;
+    width: 250px;
+    display: inline-block;
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 50px auto;
+}
+.lite{
+    background-color: palevioletred;
+}
+.classic{
+    background-color: navajowhite;
+}
+.pro{
+    background-color: crimson;
+}
+.premium{
+    background-color: orchid;
+}
+.line{
+    color: black(52, 236, 227);
+    text-decoration: none;
+    border-width: 1px;
+    border-style: double;
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px burlywood; 
+}
+
+
